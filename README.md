@@ -1,7 +1,5 @@
 # babazade_young_midterm
 This is the repository we are creating as the midterm project for our MMED1054 Multimedia Authoring Course.
-<<<<<<< Updated upstream
-=======
 
 ## Work from home vs Office work
 Welcome to our midterm project about a friendly argument of which is better and the significant differences of working from home to the office work.Continue to read more on our webpage.Enjoy reading!
@@ -32,4 +30,3 @@ MIT
 
 **References 4**:[Workplace Distractions: A Review of the Literature](https://www.researchgate.net/publication/233569247_Distractions_in_the_workplace_revisited)
 
->>>>>>> Stashed changes
