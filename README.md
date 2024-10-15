@@ -15,7 +15,7 @@ Welcome to our midterm project about a friendly argument of which is better and 
 Created on October 14, 2024
 
 ## Credits
-Officially Published by: Babazade Nargiz and Neil Young
+Officially Published by: Babazade Nargiz and Neil
 
 ## License
 
