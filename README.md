@@ -12,7 +12,7 @@ Welcome to our midterm project about a friendly argument of which is better and 
 - Submit a pull request :D
 
 ## History
-Created on October 14, 2024
+Created on Oct. 14, 2024
 
 ## Credits
 Officially Published by: Babazade Nargiz and Neil Young
